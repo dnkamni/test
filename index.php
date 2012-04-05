@@ -1,5 +1,5 @@
 <?php
-
+//SCM Use test in NetSet
 // Page crée par Shepard [Fabian Pijcke] <Shepard8@laposte.net>
 // Arno Esterhuizen <arno.esterhuizen@gmail.com>
 // et Romain Bourdon <rromain@romainbourdon.com>
